@@ -3,6 +3,7 @@ This is a news story on a Canadian newspaper called Toronto Star Op-Ed asking th
 
 LINK OF THE NEWSPAPER
 --------> https://honestreporting.ca/toronto-star-op-ed-calls-for-canada-to-not-support-peace-between-israel-and-uae/
+--------> https://honestreporting.ca/globe-reporter-gratuitously-refers-to-sport-washing-allegation-against-israeli-canadian-philanthropist/
 
 
 [PLAY](https://julianoacunia.github.io/TaskNews/)
