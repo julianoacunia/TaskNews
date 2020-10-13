@@ -44,3 +44,8 @@
     font-weight: bold;
     margin-right: 25px;
 }
+
+.menu-bar li  a {
+   color: #fff;
+   text-decoration: none;
+}
