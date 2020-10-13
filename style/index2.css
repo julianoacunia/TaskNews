@@ -2,3 +2,42 @@ body {
     margin: 0;
     padding: 0;
 }
+.container-title {
+    text-align: center;
+    width: 100%;
+}
+.container-title h1 {
+    font-weight: bold;
+    font-size: 25px;
+    color: #313131;
+}
+.news-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.img {
+    width: 502px;
+    height: 360px;
+}
+.body-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.body-text p {
+    margin: 1px;
+    font-size: 16px;
+    line-height: 1.8;
+}
+.body-text a {
+    text-decoration: none;
+}
+.body-text strong {
+    color: #f00;
+    font-weight: bold;
+}
