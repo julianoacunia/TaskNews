@@ -1,0 +1,46 @@
+.menu-top {
+    display: inline-block;
+    width: 100%;
+    height: 32px;
+    background-color: #000;
+}
+.penci-topbar-menu {
+    margin-top: 5px;
+    margin-left: 15px;
+    vertical-align: top;
+}
+
+.penci-topbar-menu li {
+    display: inline-block;
+    margin-right: 25px;
+    color: #fff;
+    list-style: none;
+    font-size: 14px;
+    font-weight: light;
+    font-weight: bold;
+}
+.header {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+.logo {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.menu {
+    height: 60px;
+    background-color: #000;
+}
+.menu-bar {
+    display: inline-flex;
+}
+
+.menu-bar li {
+    color: #fff;
+    list-style: none;
+    font-size: 14px;
+    font-weight: light;
+    font-weight: bold;
+    margin-right: 25px;
+}
